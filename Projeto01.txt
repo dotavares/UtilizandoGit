@@ -1,1 +1,2 @@
 teste de alteração do arquivo.
+Nova alteração usando o Visual Studio.
